@@ -1,0 +1,32 @@
+C:\Users\home\source\repos\attendance\attendance\bin\Debug\attendance.exe.config
+C:\Users\home\source\repos\attendance\attendance\bin\Debug\attendance.exe
+C:\Users\home\source\repos\attendance\attendance\bin\Debug\attendance.pdb
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.Properties.Resources.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.csproj.GenerateResource.cache
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.exe
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.pdb
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.Attendance.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.Cotch.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.Admin.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.admindashboard.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.AddNew.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.Edit.resources
+C:\Users\home\source\repos\attendance\attendance\obj\Debug\attendance.AddCoach.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\bin\Debug\attendance.exe.config
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\bin\Debug\attendance.exe
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\bin\Debug\attendance.pdb
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.csproj.AssemblyReference.cache
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.AddCoach.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.AddNew.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.admindashboard.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.Admin.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.Cotch.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.Edit.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.Attendance.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.Properties.Resources.resources
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.csproj.GenerateResource.cache
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.csproj.CoreCompileInputs.cache
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.exe
+C:\Users\Seif Eissa\OneDrive\Desktop\attendance\attendance\obj\Debug\attendance.pdb
